@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  my1staspnetcore:
+    image: my1staspnetcore
+    build:
+      context: ./my1staspnetcore
+      dockerfile: Dockerfile

@@ -1,0 +1,10 @@
+C:\_HD\Docker\Tutorials\my1staspnetcore\my1staspnetcore\bin\Release\netcoreapp2.0\my1staspnetcore.deps.json
+C:\_HD\Docker\Tutorials\my1staspnetcore\my1staspnetcore\bin\Release\netcoreapp2.0\my1staspnetcore.runtimeconfig.json
+C:\_HD\Docker\Tutorials\my1staspnetcore\my1staspnetcore\bin\Release\netcoreapp2.0\my1staspnetcore.runtimeconfig.dev.json
+C:\_HD\Docker\Tutorials\my1staspnetcore\my1staspnetcore\bin\Release\netcoreapp2.0\my1staspnetcore.dll
+C:\_HD\Docker\Tutorials\my1staspnetcore\my1staspnetcore\bin\Release\netcoreapp2.0\my1staspnetcore.pdb
+C:\_HD\Docker\Tutorials\my1staspnetcore\my1staspnetcore\obj\Release\netcoreapp2.0\my1staspnetcore.csproj.CoreCompileInputs.cache
+C:\_HD\Docker\Tutorials\my1staspnetcore\my1staspnetcore\obj\Release\netcoreapp2.0\my1staspnetcore.AssemblyInfoInputs.cache
+C:\_HD\Docker\Tutorials\my1staspnetcore\my1staspnetcore\obj\Release\netcoreapp2.0\my1staspnetcore.AssemblyInfo.cs
+C:\_HD\Docker\Tutorials\my1staspnetcore\my1staspnetcore\obj\Release\netcoreapp2.0\my1staspnetcore.dll
+C:\_HD\Docker\Tutorials\my1staspnetcore\my1staspnetcore\obj\Release\netcoreapp2.0\my1staspnetcore.pdb

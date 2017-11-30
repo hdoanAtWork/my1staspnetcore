@@ -1,0 +1,11 @@
+services:
+  my1staspnetcore:
+    build:
+      context: C:\_HD\Docker\Tutorials\my1staspnetcore\my1staspnetcore
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: my1staspnetcore
+    ports:
+    - 80/tcp
+version: '3.0'

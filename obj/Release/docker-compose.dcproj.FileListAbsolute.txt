@@ -1,0 +1,1 @@
+C:\_HD\Docker\Tutorials\my1staspnetcore\obj\Release\docker-compose.dcproj.CoreCompileInputs.cache

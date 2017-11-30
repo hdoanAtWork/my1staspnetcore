@@ -1,0 +1,12 @@
+C:\_HD\Docker\Tutorials\my1staspnetcore\my1staspnetcore
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=my1staspnetcore
+--content-root=C:\_HD\Docker\Tutorials\my1staspnetcore\my1staspnetcore
+--file=C:\_HD\Docker\Tutorials\my1staspnetcore\my1staspnetcore\Pages\About.cshtml
+--file=C:\_HD\Docker\Tutorials\my1staspnetcore\my1staspnetcore\Pages\Contact.cshtml
+--file=C:\_HD\Docker\Tutorials\my1staspnetcore\my1staspnetcore\Pages\Error.cshtml
+--file=C:\_HD\Docker\Tutorials\my1staspnetcore\my1staspnetcore\Pages\Index.cshtml
+--file=C:\_HD\Docker\Tutorials\my1staspnetcore\my1staspnetcore\Pages\_Layout.cshtml
+--file=C:\_HD\Docker\Tutorials\my1staspnetcore\my1staspnetcore\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\_HD\Docker\Tutorials\my1staspnetcore\my1staspnetcore\Pages\_ViewImports.cshtml
+--file=C:\_HD\Docker\Tutorials\my1staspnetcore\my1staspnetcore\Pages\_ViewStart.cshtml
